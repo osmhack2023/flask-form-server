@@ -9,7 +9,6 @@ packages = [{include = "flask_form"}]
 [tool.poetry.dependencies]
 python = "^3.8"
 flask = "^2.3.2"
-flask-recaptcha = {git = "https://github.com/mardix/flask-recaptcha"}
 gunicorn = "^20.1.0"
 flask-cors = "^3.0.10"
 
